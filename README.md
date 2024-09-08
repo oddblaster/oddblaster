@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on The Genuine Journal<br>Learning through UltraLearning<br>I'm learning artificial intelligence and discovering its applications<br><br>
+<h3>I'm working on the Geniunine Journal, to promote an independent journalism platform outside of the influence of insitutional power.</h3>
+
+<br>Learning through UltraLearning
+<br>I'm learning artificial intelligence and discovering its applications<br><br>
 
 
 ## 🌐 Socials:
