@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h3>I'm working on the Geniunine Journal, to promote an independent journalism platform outside of the influence of insitutional power.</h3>
 
-<br>Learning through UltraLearning
+<h3><br>Learning through UltraLearning</h3>
 <br>I'm learning artificial intelligence and discovering its applications<br><br>
 
 
